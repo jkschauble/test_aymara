@@ -1,5 +1,12 @@
 [
     {
+        "path": "bertonio",
+        "name": "bertonio",
+        "pages": [
+            "test"
+        ]
+    },
+    {
         "path": "sample_1",
         "name": "Woolf Sample",
         "pages": [
