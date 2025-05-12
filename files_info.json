@@ -3,6 +3,7 @@
         "path": "bertonio",
         "name": "bertonio",
         "pages": [
+            "01_Text2Image_TrainingData",
             "test"
         ]
     },
